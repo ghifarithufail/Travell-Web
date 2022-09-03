@@ -1,0 +1,36 @@
+[
+    {
+        "nama"      : "1. Pantai Merah",
+        "deskripsi" : "Pantai Merah Muda merupakan salah satu keindahan alam yang tersimpan di Nusa Tenggara Timur (NTT). Karena keindahannya ini lah Pantai Merah Muda menjadi salah satu tempat wisata di NTT. Banyak pengunjung domestik maupun mancanegara yang menikmati liburan di pantai tersebut.",
+        "lokasi"    : "Di Lombok, warga sekitar menyebut pantai ini dengan sebutan Pantai Tangsi. Lokasinya berada di Desa Serokah, Kecamatan Jerowaru, Kabupaten Lombok Timur, Provinsi Nusa Tenggara Barat.",
+        "foto"      : "merah.jpeg"
+    },
+
+    {
+        "nama"      : "2. Taman Nasional Komodo",
+        "deskripsi" : "Taman Nasional Komodo terletak di daerah administrasi Provinsi Nusa Tenggara Timur Taman nasional ini terdiri atas tiga pulau besar Pulau Komodo, Pulau Rinca, dan Pulau Padar serta beberapa pulau kecil lainnya. Wilayah darat taman nasional ini 603 km² dan wilayah total adalah 1817 km². Pada tahun 1980, taman nasional ini didirikan untuk melindungi komodo dan habitatnya. Di taman nasional ini terdapat 277 spesies hewan yang merupakan perpaduan hewan yang berasal dari Asia dan Australia, yang terdiri dari 32 spesies mamalia, 128 spesies burung, dan 37 spesies reptilia. Bersama dengan komodo, setidaknya 25 spesies hewan darat dan burung termasuk hewan yang dilindungi, karena jumlahnya yang terbatas atau terbatasnya penyebaran mereka. Selain itu, di kawasan ini terdapat pula terumbu karang. Setidaknya terdapat 253 spesies karang pembentuk terumbu yang ditemukan di sana, dengan sekitar 1.000 spesies ikan. Keindahan terumbu ini menarik minat wisatawan asing untuk berenang atau menyelam di perairan ini. Pulau-pulau ini aslinya adalah pulau vulkanis. Jumlah penduduk di wilayah ini kurang lebih adalah 4.000 jiwa.",
+        "foto"      : "pulau.jpg",
+        "lokasi"    : "Taman Nasional Komodo ini berada di Komodo, Kec. Komodo, Kabupaten Manggarai Barat, Nusa Tenggara Timur."
+    },
+
+    {
+        "nama"      : "3. Pantai Nihiwawtu ",
+        "deskripsi" : "Wilayah Sumba Barat, Provinsi Nusa Tenggara Timur (NTT) ternyata menyimpan Pantai yang masuk kedalam 100 pantai terbaik di dunia, pantai ini bernama Pantai Nihiwatu. Pantai itu berada di peringkat ke 17 dari 100 pantai terbaik di dunia dan satu – satunya pantai di Indonesia yang terpilih menjadi pantai terbaik di Asia. Tetapi sangat disayangkan, walaupun pantai ini masuk ke dalam jajaran pantai terindah di dunia ternyata keindahannya belum diketahui banyak orang. Pantai ini terlihat begitu sempurna meski membutuhkan waktu tempuh yang cukup panjang untuk dapat mencapai lokasi, tetapi semuanya akan terbayarkan dengan keadaan air lautnya yang jernih, pasir pantainya yang bersih, dan suasana saat tenggelamnya matahari yang terlihat sangat indah.",
+        "foto"      : "nihi.jpeg",
+        "lokasi"    : "Pantai Nihiwatu yang berada di wilayah Sumba Barat, Provinsi Nusa Tenggara Timur (NTT)."
+    },
+
+    {
+        "nama"      : "4. Bukit Wairinding",
+        "deskripsi" : "Lanskap Bukit Wairinding yang begitu elok dan sangat mempesona, membuat mata para pengunjung seperti tak ingin berkedip dibuatnya. Hamparan padang savana yang terhampar luas itu akan berwarna kuning saat musim kemarau dan sebaliknya berwarna hijau pada musim penghujan. Mengunjungi Bukit Wairinding di kedua musim tersebut pastinya akan memberikan kesan yang berbeda. Jika pengunjung datang di musim kemarau, yakni antara Bulan Juli hingga Bulan Oktober maka suasana alam di sana akan terasa seperti berada di Afrika, lengkap dengan padang savananya yang eksotik. Lain halnya jika pengunjung datang di musim penghujan, suasana layaknya di perbukitan New Zealand akan Anda rasakan setibanya di bukit ini. Bukit Wairinding merupakan tempat yang tepat bagi para pengunjung yang ingin menikmati kesunyian, keheningan dan keindahan yang masih sangat alami.",
+        "foto"      : "bukit.jpeg",
+        "lokasi"    : "Bukit Wairinding ini terletak di Pambotanjara, Kec. Kota Waingapu, Kabupaten Sumba Timur, Nusa Tenggara Timur."
+    },
+
+    {
+        "nama"      : "5. Waikuri Lagoon",
+        "deskripsi" : "Danau Weekuri terletak sekitar 60 kilometer dari ibu kota kabupaten, Tambolaka. Nama Weekuri berasal dari bahasa Sumba wee yang berarti air dan kuri yang berarti parutan atau percikan. Danau Weekuri dipercaya terbentuk dari air laut yang terpercik melalui karang sehingga menembus ke daratan. Danau ini memang dikelilingi oleh batu karang yang memisahkannya dengan laut. Mitos setempat menyebutkan bahwa Weekuri konon dahulu merupakan nama sebuah perkampungan yang tenggelam akibat meluapnya air laut. Danau Weekuri berbentuk lonjong dengan panjang sekitar 150 meter dan lebar terjauh 50 meter. Kedalaman danau berkisar 30 cm hingga 2,5 meter saat surut namun dapat mencapai lima meter saat laut pasang.",
+        "foto"      : "waikuri.jpeg",
+        "lokasi"    : "Danau Weekuri adalah danau air asin yang terletak di Desa Kalena rongo, Kecamatan Kodi Utara, Kabupaten Sumba Barat Daya, Nusa Tenggara Timur. "  
+    }
+]

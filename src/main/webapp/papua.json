@@ -1,0 +1,36 @@
+[
+    {
+        "nama"      : "1. Danau Sentani",
+        "deskripsi" : "Danau terbesar di Papua yang memiliki panorama fantastis dan jadi kebanggaan masyarakat lokal Danau dengan luas 9.360 hektare ini merupakan sumber air dari 14 sungai besar dan sungai kecil.Dengan bentuk danau yang unik seperti amoeba, terdapat 22 pulau kecil yang menghiasi keindahan danau. Enggak heran, kalau Danau Sentani jadi lokasi wisata favorit yang ramai dikunjungi wisatawan. ",
+        "lokasi"    : "Danau Sentani adalah danau yang terletak di Papua Indonesia. Danau Sentani berada di bawah lereng Pegunungan Cagar Alam Cyclops yang memiliki luas sekitar 245.000 hektar. Danau ini terbentang antara Kota Jayapura dan Kabupaten Jayapura, Papua",
+        "foto"      : "sentani.jpg"
+    },
+
+    {
+        "nama"      : "2. Pantai Base-G",
+        "deskripsi" : "Di Papua, ada pantai yang cantiknya bak lukisan lho, namanya Pantai Base-G yang terletak di Kota Jayapura. Asal nama pantai ini berawal dari pasukan sekutu di Perang Dunia II yang menjadikan pantai ini sebagai basis militer. Nama lain dari pantai ini adalah Pantai Tanjung Ria.kalau Sobat Pesona main ke pantai ini, dijamin bakal merasa rileks karena deburan ombak pantai yang merdu dan tidak terlalu besar. Selain itu, pasir bersih yang membentang di pantai ini bikin pengen foto-foto terus! ",
+        "foto"      : "baseG.jpg",
+        "lokasi"    : "Pantai Base G terletak disebelah utara Kota Jayapura, Papua. Pantai Base G berlokasi sekitar 10 km dari Kota Jayapura di Distrik Jayapura Utara."
+    },
+
+    {
+        "nama"      : "3. Taman Nasional Lorentz ",
+        "deskripsi" : "Taman Nasional Lorentz di Papua pun memiliki kemegahan terbesar di Asia Tenggara dan diakui sebagai situs warisan dunia oleh UNESCO. Saking luasnya, 2.505.600 hektare lahan taman ini menempati 10 kabupaten di Papua. Enggak heran, pintu masuk taman nasional ini ada tiga kota berbeda, yaitu Timika, Wamena, dan Enarotali.  Taman Nasional Lorentz juga merupakan kawasan konservasi terluas dengan ekosistem terlengkap di Asia Pasifik. Fauna khasnya adalah cendrawasih ekor panjang, puyuh salju, dan kanguru pohon dingiso. ",
+        "foto"      : "lorentz.jpg",
+        "lokasi"    : " terletak di provinsi Papua, Indonesia berada dalam wilayah Kabupaten Jayawijaya, Kabupaten Mimika, Kabupaten Asmat, Kabupaten Yahukimo, dan Kabupaten Puncak Jaya. Taman Nasional Lorentz juga terbagi menjadi 16 distrik. "
+    },
+
+    {
+        "nama"      : "4. Lembah Baliem",
+        "deskripsi" : "Lembah Baliem, yang berjarak 27 km dari Kota Wamena, Papua. Di lembah yang luasnya mencapai 1.600 km2 tersebut, terdapat 3 suku utama yang menempati, yaitu Suku Dani, Yali, dan Lani.Selain udara yang sejuk dan panorama asri yang bikin segar mata, daya tarik destinasi ini adalah rumah tradisional serta kebudayaan yang kental di antara masyarakat suku aslinya. Bahkan, ada festival budaya yang terkenal di sini, yaitu Festival Lembah Baliem.",
+        "foto"      : "baliem.jpg",
+        "lokasi"    : "Lembah Baliem merupakan lembah di pegunungan Jayawijaya. Lembah Baliem berada di ketinggian 1600 meter dari permukaan laut yang dikelilingi pegunungan dengan pemandangannya yang indah dan masih alami.s"
+    },
+
+    {
+        "nama"      : "5. Air Terjun Wafsarak",
+        "deskripsi" : "Mau berburu surga tersembunyi di Papua? Air Terjun Wafsarak di Biak Utara, Papua Barat adalah jawabannya! Panorama air terjun setinggi 10 meter ini seperti tempat pelepas penat di tengah hutan yang asri. Suara deras air terjun pun bisa Sobat Pesona dengar dari pinggir jalan karena lokasinya yang mudah diakses. Air di kolam air terjun sangat jernih sehingga cocok untuk berenang dan bermain air bersama anak-anak.",
+        "foto"      : "air.jpg",
+        "lokasi"    : "Letak Air terjun ini ada di Biak Utara tepatnya di Distrik Warsa."  
+    }
+]

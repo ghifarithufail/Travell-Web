@@ -1,0 +1,71 @@
+[
+    
+        {
+            "image" : "image/bandung.jpg",
+            "title" : "Bandung",
+            "description" : "Bandung merupakan ibu kota dari provinsi jawa barat.Kota ini memang memiliki pesona dan karisma yang kuat.Kota Kembang, Paris Van java merupakan segelintir julukan yang Bandung punya.",
+            "tombol": "Go to Bandung",
+            "href" : "bandung.jsp"
+        },
+        {
+            "image" : "image/lawang-sewu_169.jpeg",
+            "title" : "Semarang",
+            "description" : "Semarang adalah ibukota dari Provinsi Jawa Tengah dan juga merupakan kota terbesar ke 5 di Indonesia.Di kota ini banyak tempat wisata yang menarik contohnya lawang sewu.",
+            "tombol": "Go to Semarang",
+            "href" : "semarang.html"
+        },
+        {
+            "image" : "image/jogja/borobudur.jpg",
+            "title" : "Yogyakarta",
+            "description" : "Merupakan salah satu kota istimewa yang ada di indonesia selain kota Aceh yogya di kenal dengan kota pelajar dan salah satu wisata yg terkenal nya ialah candi prambanan yang memiliki cerita legenda.",
+            "tombol": "Go to Yogyakarta",
+            "href" : "jogja.html"
+            
+        },
+        {
+            "image" : "image/lake-toba.jpg",
+            "title" : "Sumatera Utara",
+            "description" : "terletak dipulau sumatera dimana ibu kota provinsinya adalah medan. Daerah ini terkenal dengan wisata danau toba.Danau toba merupakan salah satu danauh terbesar yang ada di dunia.",
+            "tombol": "Go to Sumut",
+            "href" : "sumut.html"
+            
+        },
+        {
+            "image" : "image/bedugul.jpg",
+            "title" : "Bali",
+            "description" : "Bali merupakan sebuah tempat wisata di Indonesia yang cukup terkenal.banyak sekali wisatawan yang datang ke pulau ini, baik mereka yang merupakan wisata asing maupun wisatawan lokal.",
+            "tombol": "Go to Bali",
+            "href" : "bali.html"
+        },
+        {
+            "image" : "image/labuan bajo.jpg",
+            "title" : "NTT",
+            "description" : "merupakan provinsi yang berdekatan dengan pulau bali.provinsi ini tidak kalah indah dengan pulau tetangganya.provinsi ini terkenal akan tempat bernama labuan bajo, dimana menyajikan view pantai.",
+            "tombol": "Go to NTT",
+            "href" : "ntt.html"
+        },
+        {
+            "image" : "image/padang.jpg",
+            "title" : "Sumater Barat",
+            "description" : "salah satu daerah di Indonesia yang memiliki wisata alam yang indah. Menariknya, di balik wisata alam yang ditawarkan terselip budaya dan legenda yang berkembang secara luas.",
+            "tombol": "Go to Sumbar",
+            "href" : "sumbar.html"
+        },
+        {
+            "image" : "image/PAPUA.jpg",
+            "title" : "Papua",
+            "description" : "Papua daerah indonesia timur yang kaya akan wisata alamnya.Papua disebut juga dengan surgannya indonesia timur karena view yang di hasilkan oleh wisata alam nya sangat memukau.",
+            "tombol": "Go to Papua",
+            "href" : "papua.html"
+            
+        },
+
+        {
+            "image" : "image/bromo.jpg",
+            "title" : "Malang",
+            "description" : "Daerah yang berada di dalam provinsi Jawa Timur.memiliki banyak wisata yang indah salah satunya ialah gunung bromo di sini kita akan di suguhkan dengan sunrise yang begitu indah.",
+            "tombol": "Go to Malang",
+            "href" : "malang.html"
+            
+        }
+]

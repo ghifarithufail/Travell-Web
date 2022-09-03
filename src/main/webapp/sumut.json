@@ -1,0 +1,36 @@
+[
+    {
+        "nama"      : "1. Gunung Sibayak",
+        "deskripsi" : "Gunung Sibayak adalah sebuah gunung di Kabupaten Karo, Sumatra Utara. Masyarakat Karo menyebut gunung Sibayak dengan sebutuan 'gunung raja'. Gunung Sibayak merupakan gunung berapi dan meletus terakhir tahun 1881. Gunung ini berada di sekitar 50 kilometer barat daya Kota Medan. Sekarang Gunung Sibayak banyak dikunjungi karena akses menuju gunung sibayak banyak mulai Sibayak 1 dan Sibayak 2. Setiap 17 Agustus di Gunung Sibayak diadakan upacara rutin serta lomba panjat pinang seluruh pencinta alam dari berbagai macam dan berbagai penjuru.",
+        "lokasi"    : "Gunung Sibayak adalah sebuah gunung di Kabupaten Karo, Sumatra Utara. ",
+        "foto"      : "gunungs.jpeg"
+    },
+
+    {
+        "nama"      : "2. Pulau Karang",
+        "deskripsi" : "Pulau Karang merupakan salah satu pulau yang berada di Samudra Hindia. Pulau ini berada di sisi barat Pulau Sumatra. Secara administrasi, Pulau Karang masuk ke dalam wilayah Kecamatan Barus, Kabupaten Tapanuli Tengah, Provinsi Sumatra Utara, Indonesia. Berdasarkan hasil survey toponim pulau tahun 2006, pulau ini bernama Pulau Karang. Dari hasil verifikasi Tim Nasional Pembakuan Nama Rupabumi tahun 2007, Pulau ini tidak mengalami perubahan nama. Namun, tidak ditemukan sumber yang menjelaskan kenapa pulau ini diberi nama Pulau Karang. Topografi pulau ini secara umum pulau yang datar dengan bentuk yang memanjang. Pulau Karang memiliki pantai berpasir putih dan sebagian pantai berbatu. Pulau Karang didominasi oleh vegetasi pohon kelapa, bakau, pakis dan tumbuhan pantai lainnya. Pulau Karang tercatat sebagai salah satu pulau yang tidak berpenduduk.",
+        "foto"      : "pulau.jpeg",
+        "lokasi"    : "Pulau Karang ini berada di Sitiris-Tiris, Kec. Andam Dewi, Kabupaten Tapanuli Tengah, Sumatera Utara."
+    },
+
+    {
+        "nama"      : "3. Danau Toba ",
+        "deskripsi" : "Danau Toba adalah danau alami berukuran besar di Indonesia yang berada di kaldera Gunung Supervulkan. Danau ini memiliki panjang 100 kilometer, lebar 30 kilometer, dan kedalaman 505 meter. Danau ini terletak di tengah pulau Sumatra bagian utara dengan ketinggian permukaan sekitar 900 meter.",
+        "foto"      : "toba.jpg",
+        "lokasi"    : "Alamat lokasi Danau Toba berada di Sumatera Utara, dan dikelilingi oleh 7 kabupaten (Simalungun, Toba Samosir, Tapanuli Utara, Humbang Hasundutan, Dairi, Karo, dan Samosir). Untuk mencapai kawasan ini sobat native harus masuk ke pintu masuknya terlebih dahulu yang berada di Medan. Menuju ke Kota Medan bisa menggunakan pesawat atau dengan menggunakan bus."
+    },
+
+    {
+        "nama"      : "4. Vihara Gunung Timur",
+        "deskripsi" : "Vihara Gunung Timur adalah kelenteng Tionghoa (Taoisme) yang terbesar di Kota Medan dan mungkin juga di pulau Sumatra. Kelenteng ini dibangun pada tahun 1930-an. ",
+        "foto"      : "vihara.jpg",
+        "lokasi"    : "Vihara Gunung Timur ini terletak di Jl. Hang Tuah No.16, Madras Hulu, Medan Polonia, Medan, sekitar 500 meter dari Kuil Shri Mariamman dan berada di sisi Sungai Deli."
+    },
+
+    {
+        "nama"      : "5. Masjid Raya Medan",
+        "deskripsi" : "Masjid Raya Medan atau Masjid Raya Al-Mashun merupakan sebuah masjid yang terletak di Kota Medan, Indonesia. Masjid ini dibangun pada tahun 1906 dan selesai pada tahun 1909. Pada awal pendiriannya, masjid ini menyatu dengan kompleks istana. Gaya arsitekturnya khas Timur Tengah, India dan Spanyol.",
+        "foto"      : "masjidraya.jpg",
+        "lokasi"    : "Jika anda ingin mengunjungi masjid ini, anda dapat menemukannya di Jalan Sisingamaraja, Medan."  
+    }
+]

@@ -1,0 +1,66 @@
+.ling{
+    padding-bottom: 100px;
+    text-align: left;
+}
+.deskrip{
+    text-align: left;
+    padding-bottom: 90px;
+    padding-top: 10px;
+}
+.logo{
+  padding-bottom: 55px;
+  text-align: left;
+}
+.media{
+    padding-bottom: 55px;
+    text-align: left;
+}
+.bawah{
+    align-items: center;
+}
+.card{
+    margin-top: 80px;
+    width: 18rem; 
+    display: inline-block;
+    margin-left: 220px;
+}
+.row{
+    align-items: center;
+    padding-left: 80px;
+}
+.container{
+    align-items: center !important;
+}
+.kartu{
+    align-items: center;
+    display: inline-block;
+    align-items: center;
+    margin-left: -45px;
+    padding-left: 80px;
+}
+.banner{
+    background: url(image/about.jpg) 
+    no-repeat center center;
+    background-size: cover;
+    padding-top: 10%;
+    padding-bottom: 100px;
+    color: white;
+}
+
+.b-example-divider {
+    height: 3rem;
+    background-color: rgba(0, 0, 0, .1);
+    border: solid rgba(0, 0, 0, .15);
+    border-width: 1px 0;
+    box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
+  }
+  
+  .bi {
+    vertical-align: -.125em;
+    fill: currentColor;
+  }
+.pendiri{
+    align-items: center;
+    margin-right: 55px;
+    font-size: 50px;
+}

@@ -1,0 +1,25 @@
+[
+    {
+        "image" : "image/bedugul.jpg",
+        "title" : "Bali",
+        "description" : "Bali merupakan sebuah tempat wisata di Indonesia yang cukup terkenal.banyak sekali wisatawan yang datang ke pulau ini, baik mereka yang merupakan wisata asing maupun wisatawan lokal.",
+        "tombol": "Go to Bali",
+        "href" : "bali.html"
+    },
+    {
+        "image" : "image/PAPUA.jpg",
+        "title" : "Papua",
+        "description" : "Papua daerah indonesia timur yang kaya akan wisata alamnya.Papua disebut juga dengan surgannya indonesia timur karena view yang di hasilkan oleh wisata alam nya sangat memukau.",
+        "tombol": "Go to Papua",
+        "href" : "papua.html"
+        
+    },
+    {
+        "image" : "image/lake-toba.jpg",
+        "title" : "Sumatera Utara",
+        "description" : "terletak dipulau sumatera dimana ibu kota provinsinya adalah medan. Daerah ini terkenal dengan wisata danau toba.Danau toba merupakan salah satu danauh terbesar yang ada di dunia.",
+        "tombol": "Go to Sumut",
+        "href" : "sumut.html"
+        
+    }
+]

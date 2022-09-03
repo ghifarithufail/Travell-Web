@@ -1,0 +1,68 @@
+.carousel-item{
+    height: 90vh;
+    background-size: cover;
+}  
+.card{
+    width: 18rem; 
+    display: inline-block;
+    margin-left: 35px;
+    margin-bottom: 10px;
+}
+.row{
+    align-items: center;
+    padding-left: 150px;
+}
+.card img{
+    width: 285px;
+    height: 170px;
+}
+
+.card-title{
+    margin: 10px;
+}
+.card-text{
+    margin: 10px;
+    margin-bottom: 20px !important;
+}
+
+.btn{
+    background-color: #045c94;
+    color: aliceblue;
+    margin: 10px;
+}
+
+.b-example-divider {
+    height: 3rem;
+    background-color: rgba(0, 0, 0, .1);
+    border: solid rgba(0, 0, 0, .15);
+    border-width: 1px 0;
+    box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
+  }
+  
+  .bi {
+    vertical-align: -.125em;
+    fill: currentColor;
+  }
+  .ling{
+      padding-bottom: 100px;
+      text-align: left;
+  }
+  .deskrip{
+      text-align: left;
+      padding-bottom: 90px;
+      padding-top: 10px;
+  }
+  .logo{
+    padding-bottom: 55px;
+    text-align: left;
+  }
+  .media{
+      padding-bottom: 55px;
+      text-align: left;
+  }
+  .bawah{
+      align-items: center;
+  }
+  .footer{
+      margin-top: 20px;
+  }

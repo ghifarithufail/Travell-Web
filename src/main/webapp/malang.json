@@ -1,0 +1,36 @@
+[
+    {
+        "nama"      : "1. Bromo",
+        "deskripsi" : "Taman Nasional Bromo Tengger Semeru merupakan satu-satunya kawasan konservasi di Indonesia yang memiliki lautan pasir seluas 10 km yang disebut Tengger, tempat dimana empat anak gunung berapi baru berada. Anak gunung berapi tersebut adalah Gunung Batok (2.470 m), Gunung Kursi (2.581 m), Gunung Watangan (2.661 m), dan Gunung Widodaren (2.650 m). Namun, dari deretan gunung tersebut, hanya Gunung Bromo lah satu-satunya yang masih aktif. Temperatur di puncak Gunung Bromo berkisar 5-18 derajat Celcius.",
+        "lokasi"    : "Taman Nasional Bromo Tengger Semeru adalah taman nasional di Jawa Timur, Indonesia, yang terletak di wilayah administratif Kabupaten Pasuruan, Kabupaten Malang, Kabupaten Lumajang dan Kabupaten Probolinggo.",
+        "foto"      : "bromo.png"
+    },
+
+    {
+        "nama"      : "2. Pulau Sempu",
+        "deskripsi" : "Pulau Sempu memiliki berbagai jenis ekosistem mulai dari hutan pantai, hutan bakau, dan hutan tropis dataran rendah yang mendominasi seluruh pulau. Di tengah pulau ini terdapat semacam laguna atau danau berair asin yang bernama Segara Anakan, yang terhubung dengan laut melalui suatu celah karang.[1] Flora yang ditemukan di Pulau Sempu di antaranya adalah bendo (Artocarpus elasticus), triwulan (Terminalia sp.), wadang (Pterocarpus javanicus), ketapang (Terminalia catappa), waru laut (Hibiscus tiliaceus), pandan (Pandanus tectorius), bakau (Rhizophora mucronata dan Rhizophora apiculata), dan banyak lagi. Menariknya, nama Sempu dikatakan diambil dari nama salah satu jenis pohon (pohon sempu) yang ditemukan di pulau itu, namun pohon tersebut telah sulit ditemukan saat ini.",
+        "foto"      : "sempu.jpg",
+        "lokasi"    : "Pulau Sempu adalah sebuah pulau kecil yang terletak di sebelah selatan Pulau Jawa; secara administratif berada di Desa Tambakrejo, Kecamatan Sumbermanjing Wetan, Kabupaten Malang, Jawa Timur."
+    },
+
+    {
+        "nama"      : "3. Air Terjun Coban Rondo ",
+        "deskripsi" : "Coban Rondo terletak pada ketinggian 1135 m di atas permukaan laut. Air terjun ini memiliki ketinggian 84 meter dengan debit air berkisar antara 90 liter per detik pada musim kemarau, sampai dengan 150 liter per detik pada musim penghujan. Coban Rondo sebenarnya merupakan bagian dari kelompok air terjun bertingkat (dimulai dengan air terjun kembar bernama Coban Manten yang bergabung menjadi satu dinamakan Coban Dudo, dan kemudian mengalir ke bawah dengan nama Coban Rondo).",
+        "foto"      : "coban.jpg",
+        "lokasi"    : "Air terjun ini berlokasi di Kecamatan Pujon, Kabupaten Malang. Jaraknya sekitar 31 kilometer dari pusat kota Kota Malang atau sekitar satu jam perjalanan darat dengan mobil"
+    },
+
+    {
+        "nama"      : "4. Kawah Ijen",
+        "deskripsi" : "Kawah Ijen adalah sebuah danau kawah yang bersifat asam yang berada di puncak Gunung Ijen dengan kedalaman danau 200 meter dan luas kawah mencapai 5.466 Hektar. Danau kawah Ijen dikenal merupakan danau air asam kuat terbesar di dunia.Fenomena eternal blue fire atau api biru abadi berada di dalam kawah Ijen, dan pemandangan alami ini hanya terjadi di dua tempat di dunia yaitu Etiopia (gunung Dallol) dan Ijen.Blue fire hanya dapat dilihat oleh mata manusia saat tidak ada cahaya, karenanya waktu ideal untuk melihatnya adalah jam 2 hingga jam 4 dini hari",
+        "foto"      : "kawah-jen.jpg",
+        "lokasi"    : "kawah Ijen adalah sebuah kawah yang terletak di perbatasan Kabupaten Banyuwangi dan Kabupaten Bondowoso, Jawa Timur, Indonesia. "
+    },
+
+    {
+        "nama"      : "5. Pantai Balekambang ",
+        "deskripsi" : "Daya tarik Balekambang utamanya tentu panorama alam, gelombang ombak yang memanjang hampir dua kilometer, serta hamparan pasir nan luas. Area pasir putih terlihat bersih dari sampah maupun kotoran sehingga cukup nyaman bagi pengunjung untuk bermain dan berolahraga. Bahkan tak jarang di pantai ini menjadi tempat latihan sejumlah klub sepak bola seperti Arema dan Persema.Pantai Balekambang selain sebagai wisata alam, juga bisa disebut sebagai tempat wisata religi. Karena pada hari-hari tertentu, ribuan pengunjung datang ke pantai ini untuk melakukan ritual. Bagi umat Islam, mereka menjalani ritual dengan berziarah ke makam Syaikh Abdul Jalil.",
+        "foto"      : "belakambang.jpg",
+        "lokasi"    : "Pantai Balekambang adalah sebuah pantai di pesisir selatan yang terletak di tepi Samudra Indonesia secara administratif masuk wilayah Dusun Sumber Jambe, Desa Srigonco, Kecamatan Bantur, Kabupaten Malang, Jawa Timur. "  
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "nama"      : "1. Lawang Sewu",
+        "deskripsi" : "Lawang Sewu adalah bangunan perkantoran yang terletak di seberang Tugu Muda, Kota Semarang, Jawa Tengah, Indonesia, yang dibangun sebagai kantor pusat Nederlandsch-Indische Spoorweg Maatschappij. Bangunan ini berstatus sebagai aset Kereta Api Indonesia karena merupakan buah dari perebutan NIS oleh Djawatan Kereta Api Republik Indonesia pada masa Perang Kemerdekaan. Saat ini bangunan tersebut dijadikan sebagai museum dan galeri sejarah perkeretaapian oleh Unit Pusat Pelestarian dan Desain Arsitektur dan KAI Wisata.",
+        "lokasi"    : "Lawang Sewu ini terletak di Jl. Pemuda, Sekayu, Kec. Semarang Tengah, Kota Semarang, Jawa Tengah 50132",
+        "foto"      : "/smglawangsewu.jpeg"
+    },
+
+    {
+        "nama"      : "2. Sam Poo Kong",
+        "deskripsi" : "Kelenteng Gedung Kuno Sam Poo Tong yaitu bekas tempat persinggahan dan pendaratan pertama seorang Laksamana Tiongkok beragama Islam yang bernama Zheng He/Cheng Ho. Tidak semua anak buah kapal beragama Islam. Kompleks Sam Po Tong berada di daerah Simongan, sebelah barat daya Kota Semarang. Tanda yang menunjukan sebagai bekas petilasan yang berciri keislaman dengan ditemukannya tulisan berbunyi 'Marilah kita mengheningkan cipta dengan mendengarkan bacaan Al Qur'an'. Kelenteng ini disebut Gedung Batu karena bentuknya merupakan gua batu besar yang berada di sebuah bukit batu. Untuk mengenang Zheng He, masyarakat Indonesia keturunan Tionghoa membangun sebuah kelenteng. Sekarang tempat ini dijadikan tempat peringatan dan pemujaan atau bersembahyang serta tempat untuk berziarah. Untuk keperluan tersebut, di dalam gua batu itu diletakkan sebuah altar serta patung-patung Sam Po Tay Djien. Meskipun Laksamana Cheng Ho adalah seorang muslim, tetapi masyarakat menganggapnya sebagai dewa. Hal ini dapat dimaklumi mengingat agama Konghucu atau Taoisme menganggap orang yang sudah meninggal dapat memberikan pertolongan kepada mereka",
+        "foto"      : "sampokong.jpeg",
+        "lokasi"    : "Lokasi Sam Poo Kong terletak di Klenteng Sam Po Kong, Bongsari, Kec. Semarang Barat, Kota Semarang, Jawa Tengah 50148"
+    },
+
+    {
+        "nama"      : "3. Kota Lama Semarang",
+        "deskripsi" : "'Kota Lama Semarang adalah suatu kawasan di Semarang yang menjadi pusat perdagangan pada abad 19-20. Pada masa itu, untuk mengamankan warga dan wilayahnya, kawasan itu dibangun benteng, yang dinamai benteng Vijfhoek. Untuk mempercepat jalur perhubungan antar ketiga pintu gerbang dibenteng itu maka dibuat jalan-jalan perhubungan, dengan jalan utamanya dinamai: Heerenstraat. Saat ini bernama Jl. Letjen Soeprapto. Salah satu lokasi pintu benteng yang ada sampai saat ini adalah Jembatan Berok, yang disebut De Zuider Por. Kata 'Berok' sendiri merupakan hasil pelafalan masyarakat Pribumi yang kesulitan melafalkan kata 'Burg' dalam Bahasa Belanda. Di sekitar Kota Lama dibangun kanal-kanal air yang keberadaanya masih bisa disaksikan hingga kini, meski tidak terawat. Hal inilah yang menyebabkan Kota Lama mendapat julukan sebagai 'Little Netherland'. Lokasinya yang terpisah dengan lanskap mirip kota di Eropa serta kanal yang mengelilinginya menjadikan Kota Lama seolah miniatur Belanda di Semarang. Kawasan Kota Lama juga dilengkapi dengan Museum bernama Museum Kota Lama yang terletak di kawasan Jalan Cenderawasih, Semarang Tengah.",
+        "foto"      : "kotalama.jpeg",
+        "lokasi"    : "Lokasi Kota Lama ini berada di Jl. Letjen Suprapto No.31, Tj. Mas, Kec. Semarang Utara, Kota Semarang, Jawa Tengah 50137"
+    },
+
+    {
+        "nama"      : "4. Masjid Agung Jawa Tengah",
+        "deskripsi" : "Masjid Agung Jawa Tengah adalah masjid yang terletak di Semarang, provinsi Jawa Tengah, Indonesia. Masjid ini mulai dibangun sejak tahun 2001 hingga selesai secara keseluruhan pada tahun 2006. Masjid ini berdiri di atas lahan 10 hektare. Masjid Agung diresmikan oleh Presiden Indonesia Susilo Bambang Yudhoyono pada tanggal 14 November 2006. Masjid Agung Jawa Tengah merupakan masjid provinsi bagi provinsi Jawa Tengah",
+        "foto"      : "masjid.jpeg",
+        "lokasi"    : "Lokasi Masjid Agung ini berada di Jl. Gajah Raya, Sambirejo, Kec. Gayamsari, Kota Semarang, Jawa Tengah 50166."
+    },
+
+    {
+        "nama"      : "5. Tugu Muda Semarang",
+        "deskripsi" : "Tugu Muda adalah sebuah monumen yang dibuat untuk mengenang jasa-jasa para pahlawan yang telah gugur dalam Pertempuran Lima Hari di Semarang. Monumen ini terletak di Jalan Nasional Rute 20 yang mengarah ke Solo. Tugu Muda ini menggambarkan tentang semangat berjuang & patriotisme warga semarang, khususnya para pemuda yang gigih, rela berkorban dengan semangat yang tinggi mempertahankan Kemerdekaan Indonesia.",
+        "foto"      : "tugumuda.jpeg",
+        "lokasi"    : "Tugu Muda ini terletak di Jl. Pandanaran, Mugassari, Kec. Semarang Sel., Kota Semarang, Jawa Tengah 50245."  
+    }
+]

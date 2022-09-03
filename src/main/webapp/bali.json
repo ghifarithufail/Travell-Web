@@ -1,0 +1,38 @@
+[
+    {
+        "nama"      : "1. Pantai Melasti",
+        "deskripsi" : "Salah satu destinasi wisata pantai pasir putih terbaru di Bali yang berada pada bagian selatan pulau Bali dan sedang trending dikunjungi wisatawan Indonesia adalah pantai Melasti Ungasan Bali. Pantai Melasti di Ungasan Bali sebelumnya dalam tahap konstruksi. Seperti pembangunan jalan, dan konstruksi sarana pendukung tempat wisata pantai. Namun saat ini proses konstruksi sudah selesai. Membuat objek wisata Melasti beach di Ungasan sangat nyaman untuk pengunjung.",
+        "lokasi"    : "Pantai ini berada di Semenanjung Bukit, Ungasan. Maka nama pantai ini lebih familiar di sebut dengan nama pantai Melasti Ungasan. Alamat dari Melasti Beach Ungasan berada di desa Ungasan, kecamatan Kuta Selatan, Kabupaten Badung – Bali.",
+        "foto"      : "melasti.jpg"
+    },
+
+    {
+        "nama"      : "2. Pura Lempuyang",
+        "deskripsi" : "Dengan latar belakang panorama Gunung Agung yang memukau, disamping sebagai tempat suci, Pura Sad Kahyangan Lempuyang Luhur memiliki keunikan tersendiri seperti kemurnian alamnya, terutama kawasan hutan cocok menjadi paru-paru Pulau Dewata. Wisatawan yang gemar trekking, melakukan perjalanan ke Pura Luhur ini akan memberikan sensasi dan pengalaman indah, unik serta menantang ada beberapa jalur pendakian menuju puncak, jika mau lebih gampang, sudah disediakan di jalur utama dengan tangga berundak, biasa juga digunakan oleh umat Hindu sebagai jalur persembahyangan.",
+        "foto"      : "lempuyang.jpeg",
+        "lokasi"    : "Salah satu obyek wisata di Bali, dan juga merupakan tempat suci bagi umat Hindu, pura berlokasi di wilayah bagian Timur pulau dewata tepatnya di Kabupaten Karangasem."
+    },
+
+    {
+        "nama"      : "3. Pura Ulun Danu",
+        "deskripsi" : "Merupakan sebuah pura dan candi air besar di Bali, Indonesia - candi utama air lainnya menjadi Pura Ulun Danu Batur. Kompleks candi ini terletak di tepi barat laut Danau Bratan di pegunungan dekat Bedugul, Kabupaten Tabanan. Candi air memenuhi seluruh wilayah di daerah aliran; di tepi hilir ada banyak candi kecil air yang spesifik untuk setiap asosiasi irigasi (subak). Candi ini sebenarnya digunakan untuk upacara persembahan untuk dewi Dewi Danu, dewi air, danau dan sungai. Danau Bratan merupakan salah satu danau penting dalam hal irigasi. Danau Bratan dikenal sebagai danau 'gunung suci', kawasan ini sangat subur, terletak pada ketinggian 1.200 meter, dan beriklim sangat dingin",
+        "foto"      : "bedugull.jpg",
+        "lokasi"    : " Lokasi pura Ulun Danu Beratan berada di sisi barat Danau Bedugul. Alamatnya berada di jalan Raya Bedugul, Candi Kuning, Kecamatan Baturiti Kabupaten Tabanan."
+    },
+
+    {
+        "nama"      : "4. Tanah Lot",
+        "deskripsi" : "Tanah Lot salah satu pura penting bagi umat Hindu Bali dan lokasi pura terletak di atas batu besar yang berada di lepas pantai. Pura Tanah Lot merupakan ikon pariwisata pulau Bali. Selain itu salah satu obyek wisata terkenal di pulau Bali yang wajib di kunjungi. Karena saking terkenalnya tempat wisata di Bali ini, maka hampir setiap hari, objek wisata ini selalu ramai dengan kunjungan wisatawan. Aktivitas wisatawan yang saat berada di kawasan Pura, sebagian besar akan jalan-jalan, foto-foto. Beberapa wisatawan ada yang duduk santai, sambil menikmati jagung rebus sambil menunggu keindahan pemandangan sunset Tanah Lot.",
+        "foto"      : "tanahlot.jpg",
+        "lokasi"    : "Alamat pura berada di Desa Beraban, Kecamatan Kediri, Kabupaten Tabanan. Jaraknya sekitar 13 km ke arah barat kota Tabanan."
+    },
+
+    {
+        "nama"      : "5. Pura Besakih",
+        "deskripsi" : "Pura Besakih Karangasem adalah tempat persembahyangan agama Hindu di Bali. Selain itu di dalam area Pura ini, tidak hanya terdapat satu Pura, tetapi banyak Pura. Karena begitu banyaknya terdapat Pura dalam satu wilayah, maka Pura Besakih Bali adalah Pura terbesar di Indonesia. Pura Besakih Bali terdiri dari 1 pusat Pura yang di beri nama Pura Penataran Agung Besakih dan terdapat 18 Pura pendamping yang berada di sekeliling dari Pura Penataran Agung Besakih. 1 buah Pura Basukian dan 17 pura lainnya.",
+        "foto"      : "pura besakih.jpg",
+        "lokasi"    : "Lokasi Pura Besakih terdapat di Desa Besakih, Kecamatan Rendang, Kabupaten Karangasem, Bali."
+      
+        
+    }
+]
